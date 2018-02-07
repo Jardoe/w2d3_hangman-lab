@@ -10,12 +10,14 @@ class Game
   end
 
   def guess_letter(letter, player)
-    if @hidden_word.is_match?(letter) || @guessed_letters.include?(letter)
-
+    return "already guessed" if @guessed_letters.include?(letter)
+    add_letter(letter)
+    if @hidden_word.is_match?(letter)
+      return "correct"
     else
       player.lose_life()
+      return "incorrect"
     end
-    add_letter(letter)
   end
 
   def is_lost?(player)
