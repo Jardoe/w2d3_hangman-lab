@@ -12,11 +12,6 @@ W (\")
 | ( ')
 ```
 
-
-```
-Give an example
-```
-
 I had a lot of fun producing this, and I'm still impressed with myself after realising I had only coded for 7 days prior to writing this task.
 
 ## Acknowledgments
