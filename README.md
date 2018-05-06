@@ -10,7 +10,9 @@ W (\")
 |-(:')-<
 | ( ')
 
+_[]_\nW (\")\n|-(:')-<\n|('  )"
+
 I had a lot of fun producing this, and I'm still impressed with myself after realising I had only coded for 7 days prior to writing this task.
 
-##Acknowledgments
+## Acknowledgments
 @drp33, Dan Peets, my fellow programmer.
